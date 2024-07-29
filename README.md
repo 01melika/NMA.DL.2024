@@ -18,5 +18,5 @@ Once the computer has learned, the code tests it by giving it new groups of pict
 
 Think of it as teaching a child to tell the difference between apples and oranges by showing them lots of examples. 
 
-**Authors:** Bonnie, You, Bereket, Melika
+
 
